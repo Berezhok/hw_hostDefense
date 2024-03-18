@@ -20,7 +20,7 @@
 ### Создали новый раздел. Зашифровали его через LUKS.
 ### ![](https://github.com/Berezhok/hw_hostDefense/blob/main/img/sdb1.png)
 ### ![](https://github.com/Berezhok/hw_hostDefense/blob/main/img/sdb1Luks.png)
-### Не сосвсем понятно что зачем мы шифруем этот диск.
+### Не совсем понятно зачем мы шифруем этот диск.
 ### У меня появился значок этого диска, я могу зайти в него по паролю.
 ### ![](https://github.com/Berezhok/hw_hostDefense/blob/main/img/luks.png)
 ### 
